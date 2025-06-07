@@ -1,0 +1,14 @@
+L:\Workspace\C#\Delegates_LinQ\HW3\bin\Debug\net8.0\HW3.exe
+L:\Workspace\C#\Delegates_LinQ\HW3\bin\Debug\net8.0\HW3.deps.json
+L:\Workspace\C#\Delegates_LinQ\HW3\bin\Debug\net8.0\HW3.runtimeconfig.json
+L:\Workspace\C#\Delegates_LinQ\HW3\bin\Debug\net8.0\HW3.dll
+L:\Workspace\C#\Delegates_LinQ\HW3\bin\Debug\net8.0\HW3.pdb
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.AssemblyInfoInputs.cache
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.AssemblyInfo.cs
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.csproj.CoreCompileInputs.cache
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.dll
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\refint\HW3.dll
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.pdb
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\HW3.genruntimeconfig.cache
+L:\Workspace\C#\Delegates_LinQ\HW3\obj\Debug\net8.0\ref\HW3.dll
